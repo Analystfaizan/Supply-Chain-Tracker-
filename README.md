@@ -109,16 +109,16 @@ Analyzes shipping cost by carrier, average shipping time by transportation mode,
 ## 🖼 Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](Screenshots\Executive_Summery.png)
+![Executive Summary](https://github.com/Analystfaizan/Supply-Chain-Tracker-/blob/38e62091aec5509ab933a8aea86f8957c3952adf/Screenshots/Executive_Summery.png)
 
 ### Inventory
-![Inventory](screenshots/inventory.png)
+![Inventory](https://github.com/Analystfaizan/Supply-Chain-Tracker-/blob/38e62091aec5509ab933a8aea86f8957c3952adf/Screenshots/Inventory.png)
 
 ### Manufacturing & Quality
-![Manufacturing & Quality](Screenshots\Manifacturing.png)
+![Manufacturing & Quality](https://github.com/Analystfaizan/Supply-Chain-Tracker-/blob/38e62091aec5509ab933a8aea86f8957c3952adf/Screenshots/Manifacturing.png)
 
 ### Logistic & Shipping
-![Logistic & Shipping](screenshots/logistick.png)
+![Logistic & Shipping](https://github.com/Analystfaizan/Supply-Chain-Tracker-/blob/38e62091aec5509ab933a8aea86f8957c3952adf/Screenshots/Logistick.png)
 
 ---
 
