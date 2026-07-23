@@ -161,7 +161,6 @@ Supply Chain Tracker/
 └── README.md                          # Project documentation
 ```
 
-*(Update this structure to match your actual repo layout.)*
 
 ---
 
